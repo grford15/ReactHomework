@@ -1,3 +1,5 @@
+# React IMDB Homework
+
 Here's a component from IMDB showing opening movies this week.
 
 - Draw out the skeleton of this app on paper.
